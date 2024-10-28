@@ -44,14 +44,18 @@
 }
 
 /* Projects Section */
-#projects {
+#projects-header {
     padding: 40px 20px;
     background-color: #fff;
     text-align: center;
 }
 
-#projects h2 {
+#projects-header h2 {
     margin-bottom: 20px;
+}
+
+#project-grid {
+    display: flex;
 }
 
 .project-tile {
